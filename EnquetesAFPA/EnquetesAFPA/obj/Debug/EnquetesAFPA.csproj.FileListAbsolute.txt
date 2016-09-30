@@ -1,0 +1,160 @@
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\csc.exe
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\System.Collections.Immutable.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\System.Reflection.Metadata.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\vbc.exe
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\VBCSCompiler.exe
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\VBCSCompiler.exe.config
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EnquetesAFPA.dll.config
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EnquetesAFPA.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EnquetesAFPA.pdb
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Antlr3.Runtime.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\AspNet.ScriptManager.bootstrap.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\AspNet.ScriptManager.jQuery.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EntityFramework.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EntityFramework.SqlServer.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Identity.Core.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Cookies.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Facebook.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Google.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.OAuth.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Twitter.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.ScriptManager.WebForms.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Web.Infrastructure.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Newtonsoft.Json.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Owin.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\System.Web.Optimization.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\System.Web.Providers.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\WebGrease.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\System.Web.Optimization.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Antlr3.Runtime.pdb
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Newtonsoft.Json.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EntityFramework.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EntityFramework.SqlServer.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Identity.Core.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\System.Web.Providers.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Facebook.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Cookies.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Google.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Twitter.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.OAuth.xml
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\System.Web.Optimization.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\EntityFramework.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\EntityFramework.SqlServer.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.Security.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\obj\Debug\EnquetesAFPA.csprojResolveAssemblyReference.cache
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\obj\Debug\EnquetesAFPA.dll
+G:\ECF04\Maquette\EnquetesAFPA\EnquetesAFPA\obj\Debug\EnquetesAFPA.pdb
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\csc.exe
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\vbc.exe
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\VBCSCompiler.exe
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EnquetesAFPA.dll.config
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EnquetesAFPA.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EnquetesAFPA.pdb
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Antlr3.Runtime.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EntityFramework.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EntityFramework.SqlServer.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Newtonsoft.Json.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Owin.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\System.Web.Optimization.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\System.Web.Providers.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\WebGrease.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\System.Web.Optimization.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Antlr3.Runtime.pdb
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Newtonsoft.Json.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EntityFramework.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\EntityFramework.SqlServer.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\System.Web.Providers.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\EntityFramework.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\obj\Debug\EnquetesAFPA.csprojResolveAssemblyReference.cache
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\obj\Debug\EnquetesAFPA.dll
+C:\Users\CDI01\Documents\Visual Studio 2015\Projects\ASP\Maquette\EnquetesAFPA\EnquetesAFPA\obj\Debug\EnquetesAFPA.pdb
